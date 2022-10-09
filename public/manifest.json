@@ -1,0 +1,15 @@
+{
+    "short_name": "Gas kiosk",
+    "name": "Gas kiosk PWA",
+    "icons":[
+        {
+            "src": "/images/logo.jpg",
+            "type": "image/jpg",
+            "size": "514x360"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
