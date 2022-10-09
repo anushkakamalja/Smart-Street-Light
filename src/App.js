@@ -16,6 +16,7 @@ function App() {
        window.open('chat.php');
       };
      }
+     
   }
   let lpg=0.0;
   let co=0.0;
