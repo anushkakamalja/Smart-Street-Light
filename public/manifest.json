@@ -8,7 +8,7 @@
             "size": "514x360"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "https://gaskiosk.vercel.app/",
     "display": "standalone",
     "theme_color": "#000000",
     "background_color": "#ffffff"
