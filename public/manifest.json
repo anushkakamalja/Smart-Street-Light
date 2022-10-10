@@ -5,13 +5,13 @@
         {
             "src": "/images/logo.png",
             "type": "image/png",
-            "sizes": "860x1276",
+            "sizes": "192x192",
             "purpose": "any maskable"
         },
         {
-            "src": "logo1.png",
+            "src": "/images/logo.png",
             "type": "image/png",
-            "sizes": "820x856"
+            "sizes": "512x512"
           }
     ],
     "start_url": ".",
