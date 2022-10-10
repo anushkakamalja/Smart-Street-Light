@@ -16,19 +16,18 @@ function App() {
       var notification = new Notification("Gas level  Notification", {
        body: "Gas level leak at hazardous levels,Open windows and exit the premises immediately",
       });
-      notification.onclick = function() {
-       window.open('chat.php');
-      };
      }
      
   }
-  useEffect(()=>
-    {
-      if ((co>=65) || (smoke>=45) || (lpg>=550))
-      {
-        noti();
-      }
-    },[]);
+ 
+  // useEffect(()=>
+  //   {
+  //     useCo(200);
+  //     if ((co>=65) || (smoke>=45) || (lpg>=550))
+  //     {
+  //       noti();
+  //     }
+  //   },[]);
   return (
 
     <div className="App">
