@@ -3,9 +3,9 @@
     "name": "Gas kiosk PWA",
     "icons":[
         {
-            "src": "/images/logo.jpg",
-            "type": "image/jpg",
-            "sizes": "514x360"
+            "src": "/images/logo.png",
+            "type": "image/png",
+            "sizes": "860x1276"
         }
     ],
     "start_url": ".",
