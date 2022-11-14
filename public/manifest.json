@@ -1,7 +1,7 @@
 {
-    "short_name": "Gas kiosk",
-    "name": "Gas kiosk PWA",
-    "icons":[
+    "short_name": "Smart Street Light",
+    "name": "Smart Street Light PWA",
+    "icons": [
         {
             "src": "/images/logo.png",
             "type": "image/png",
@@ -12,7 +12,7 @@
             "src": "/images/logo.png",
             "type": "image/png",
             "sizes": "512x512"
-          }
+        }
     ],
     "start_url": ".",
     "display": "standalone",
